@@ -34,12 +34,12 @@ header {
 
 .nav-external a, .nav-internal a {
     text-decoration: none;
-    color: #b68f8f;
+    color: #cf8c8c;
     font-weight: bold;
 }
 
 .nav-external a:hover, .nav-internal a:hover {
-    color: #fff;
+    color: #9e6a6a;
 }
 
 main {
