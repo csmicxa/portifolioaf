@@ -88,3 +88,9 @@ h1 {
     text-align: center;
     margin-bottom: 20px;
 }
+.bonbon-regular {
+    font-family: "Bonbon", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
