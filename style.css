@@ -10,8 +10,8 @@ html, body {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #ff92c0;
-    color: #cf8c8c;
+    background-color: hsl(216, 49%, 34%);
+    color: #8ca9cf;
     display: flex;
     flex-direction: column;
 }
@@ -34,12 +34,12 @@ header {
 
 .nav-external a, .nav-internal a {
     text-decoration: none;
-    color: #cf8c8c;
+    color: #8ca9cf;
     font-weight: bold;
 }
 
 .nav-external a:hover, .nav-internal a:hover {
-    color: #9e6a6a;
+    color: #6a789e;
 }
 
 main {
@@ -69,7 +69,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid #999;
+    border: 1px solid #999999;
 }
 
 th, td {
@@ -81,7 +81,7 @@ footer {
     background-color: #ffffff;
     text-align: center;
     padding: 20px;
-    color: #cf8c8c;
+    color: #8cb4cf;
 }
 
 h1 {
